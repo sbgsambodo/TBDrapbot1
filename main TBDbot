@@ -1,0 +1,14 @@
+# Navigate to a folder where you want to store the bot
+cd ~/Documents  # Change this if needed
+
+# Clone your new GitHub repo (replace with your repo URL)
+git clone https://github.com/YOUR-USERNAME/terabox-download-bot.git
+cd terabox-download-bot
+
+# Copy the bot script into this folder
+# (Download the bot script from our chat & move it here)
+
+# Add & push the bot code to GitHub
+git add .
+git commit -m "Initial commit - Telegram Terabox Bot"
+git push origin main
